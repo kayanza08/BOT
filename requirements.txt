@@ -1,0 +1,11 @@
+streamlit>=1.31.0
+
+langchain-core>=0.1.50
+langchain-community>=0.0.30
+langchain-text-splitters>=0.0.1
+langchain-classic>=0.0.2
+
+chromadb>=0.4.22
+pypdf>=4.0.1
+
+gpt4all>=2.6.0
